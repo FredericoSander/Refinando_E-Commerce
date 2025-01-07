@@ -3,7 +3,7 @@
 
 # Índice 
 
-* [Título](#refinando-e-commerce)
+* [Refinando E-Commerce](#refinando-e-commerce)
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Status do Projeto](#status-do-projeto)
