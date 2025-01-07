@@ -58,6 +58,8 @@ O Modelo Entidade Relacional (MER) apresentado a seguir ilustra a estrutura do b
 - ``SQL``
 - ``MySQL Workbench 8.0``
 - ``Modelagem de dados``
+- ``Git``
+- ``GitHub``
 
 ## Conclusão
 
